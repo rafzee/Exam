@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731078079619",
+    "firebase_url": "https://exam-45523.firebaseio.com",
+    "project_id": "exam-45523",
+    "storage_bucket": "exam-45523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731078079619:android:d435d15c5a1aa8f2",
+        "android_client_info": {
+          "package_name": "com.example.muhamin.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731078079619-u1rogkft7f5h9gvhju7m0lmoa0argfh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhamin.exam",
+            "certificate_hash": "87ffeef9404e459b9b629d40d58dca8c9c7c7c26"
+          }
+        },
+        {
+          "client_id": "731078079619-ioaqbu67n9ghm3d26k7f73sd767snvca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ltFqhI5VkIhn5eHHHx020o1NGKuu1kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731078079619-ioaqbu67n9ghm3d26k7f73sd767snvca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
